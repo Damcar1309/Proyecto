@@ -2,7 +2,7 @@
 # mnacho.github.io
 
 
-aCTIVIDAD DEL PROYECTO
+ACTIVIDAD DEL PROYECTO
 Participante: Vives Briones Carlos
 Carrera Ingenieria Sistemas Computacionales
 Curso 7-3
